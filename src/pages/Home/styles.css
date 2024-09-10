@@ -41,3 +41,34 @@ button{
     color: #fff;
     padding: 10px;
 }
+
+.perfil{
+    display: flex;
+    margin: 20px;
+}
+
+.profile{
+    border-radius: 60px;
+    width: 120px;
+    height: 120px;
+    border: 2px soolid #e5e5e5;
+}
+
+.profile h3{
+    color: #999999;
+    font-size: 24px;
+    margin: 0px;
+}
+
+.profile span{
+    display: block;
+    color: #999999;
+    font-size: 24px;
+    margin: 0px;
+}
+
+.profile p{
+    color: #999999;
+    font-size: 12px;
+    margin: 0px;
+}
