@@ -24,7 +24,7 @@ input{
     border: 1px solid #999;
     border-radius: 22px;
     min-width: 250px;
-    width: 80%;
+    width: 85%;
     margin-right: 12px; 
     background-color: transparent;
     font-size: 18px;
@@ -44,7 +44,7 @@ button{
 
 .perfil{
     display: flex;
-    margin: 20px;
+    margin: 40px 0;
 }
 
 .profile{
@@ -52,23 +52,26 @@ button{
     width: 120px;
     height: 120px;
     border: 2px soolid #e5e5e5;
+    margin-right: 32px;
+
 }
 
-.profile h3{
+.perfil h3{
     color: #999999;
     font-size: 24px;
     margin: 0px;
 }
 
-.profile span{
+.perfil span{
     display: block;
-    color: #999999;
-    font-size: 24px;
-    margin: 0px;
-}
-
-.profile p{
     color: #999999;
     font-size: 12px;
     margin: 0px;
 }
+
+.perfil p {
+    color: #999999;
+    font-size: 12px;
+    margin: 20px 0 0 0;
+}
+

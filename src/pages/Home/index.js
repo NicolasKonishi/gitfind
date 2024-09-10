@@ -20,7 +20,8 @@ function App() {
               <span>@NicolasKonishi</span>
               <p>Descricao</p>
             </div>
-          </div>          
+          </div>  
+          <hr/>
         </div>
       </div>
     </div>
