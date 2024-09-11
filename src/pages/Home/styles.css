@@ -30,6 +30,7 @@ input{
     font-size: 18px;
     color: #fff;
     padding: 10px;
+    
 }
 
 button{
@@ -75,3 +76,9 @@ button{
     margin: 20px 0 0 0;
 }
 
+.repositorios {
+    font-size: 32px;
+    color: #539bf5;
+    margin: 12px 0;
+    text-align: center;
+}
